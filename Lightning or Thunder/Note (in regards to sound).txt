@@ -1,0 +1,1 @@
+This effect works best if the first 5 secs play, the rest isn't necessary, will work to reorganize if Unity has no better option.
